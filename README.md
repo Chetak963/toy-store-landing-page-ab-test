@@ -94,7 +94,7 @@ The Power BI dashboard summarizes the A/B test results, including bounce rates, 
 
 ## Project Structure
 
-<!-- ```text -->
+```text
 Toy Store E-Commerce Database/
 │
 ├── data/
